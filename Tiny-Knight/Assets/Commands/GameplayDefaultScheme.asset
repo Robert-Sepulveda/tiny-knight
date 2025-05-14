@@ -85,3 +85,75 @@ MonoBehaviour:
         m_Flags: 0
       m_Flags: 0
     val: {fileID: 11400000, guid: 96831b1689b4acb49928e1698e469cc6, type: 2}
+  - key:
+      m_Name: Key
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 7bc075d9-3ba3-481a-ae2d-452ad6d998a0
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings:
+      - m_Name: 
+        m_Id: a6a7f6c2-e471-44c6-bb7a-be2f06b927d2
+        m_Path: <Keyboard>/w
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Key
+        m_Flags: 0
+      m_Flags: 0
+    val: {fileID: 11400000, guid: bd41853602b5ce446b9d85bbd3359ca7, type: 2}
+  - key:
+      m_Name: Key
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 7bc075d9-3ba3-481a-ae2d-452ad6d998a0
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings:
+      - m_Name: 
+        m_Id: a6a7f6c2-e471-44c6-bb7a-be2f06b927d2
+        m_Path: <Keyboard>/a
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Key
+        m_Flags: 0
+      m_Flags: 0
+    val: {fileID: 11400000, guid: ea1fb1da7a6c1ac40af2d4ff317e4e0c, type: 2}
+  - key:
+      m_Name: Key
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 7bc075d9-3ba3-481a-ae2d-452ad6d998a0
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings:
+      - m_Name: 
+        m_Id: a6a7f6c2-e471-44c6-bb7a-be2f06b927d2
+        m_Path: <Keyboard>/d
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Key
+        m_Flags: 0
+      m_Flags: 0
+    val: {fileID: 11400000, guid: 0ceb9d58b1ac57e40a037c50d01325c6, type: 2}
+  - key:
+      m_Name: Key
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 7bc075d9-3ba3-481a-ae2d-452ad6d998a0
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings:
+      - m_Name: 
+        m_Id: a6a7f6c2-e471-44c6-bb7a-be2f06b927d2
+        m_Path: <Keyboard>/s
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Key
+        m_Flags: 0
+      m_Flags: 0
+    val: {fileID: 11400000, guid: 16731e4e5d06324488940af74a272ed5, type: 2}
